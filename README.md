@@ -6,7 +6,7 @@ This project presents an interactive Power BI dashboard focused on Netflix's ext
 
 ## Preview
 
-    ![Dashboard interface for Netflix movies and TV shows analytics, showing charts, filters, and summary metrics in a Power BI report; text reads Netflix Movies and TV Shows Dashboard - by Dev Modi](https://github.com/Devmodi7/Netflix-Content-Analytics-Dashboard/blob/main/Netflix%20Movies%20and%20TV%20Shows%20Dashboard%20-%20by%20Dev%20Modi.png)
+![Dashboard interface for Netflix movies and TV shows analytics, showing charts, filters, and summary metrics in a Power BI report; text reads Netflix Movies and TV Shows Dashboard - by Dev Modi](https://github.com/Devmodi7/Netflix-Content-Analytics-Dashboard/blob/main/Netflix%20Movies%20and%20TV%20Shows%20Dashboard%20-%20by%20Dev%20Modi.png)
 
 ## About this Dataset
 
